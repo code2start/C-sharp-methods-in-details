@@ -1,0 +1,11 @@
+C:\csharp\ar\methodsindetails\bin\Debug\netcoreapp3.0\methodsindetails.exe
+C:\csharp\ar\methodsindetails\bin\Debug\netcoreapp3.0\methodsindetails.deps.json
+C:\csharp\ar\methodsindetails\bin\Debug\netcoreapp3.0\methodsindetails.runtimeconfig.json
+C:\csharp\ar\methodsindetails\bin\Debug\netcoreapp3.0\methodsindetails.runtimeconfig.dev.json
+C:\csharp\ar\methodsindetails\bin\Debug\netcoreapp3.0\methodsindetails.dll
+C:\csharp\ar\methodsindetails\bin\Debug\netcoreapp3.0\methodsindetails.pdb
+C:\csharp\ar\methodsindetails\obj\Debug\netcoreapp3.0\methodsindetails.csprojAssemblyReference.cache
+C:\csharp\ar\methodsindetails\obj\Debug\netcoreapp3.0\methodsindetails.AssemblyInfoInputs.cache
+C:\csharp\ar\methodsindetails\obj\Debug\netcoreapp3.0\methodsindetails.AssemblyInfo.cs
+C:\csharp\ar\methodsindetails\obj\Debug\netcoreapp3.0\methodsindetails.dll
+C:\csharp\ar\methodsindetails\obj\Debug\netcoreapp3.0\methodsindetails.pdb
